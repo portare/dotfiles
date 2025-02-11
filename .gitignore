@@ -1,10 +1,9 @@
 *
 
-!lazygit
+!lazygit/config.yml
 
 !nvim
 
-!tmux
-tmux/plugins
+!tmux/tmux.*
 
 !yazi
