@@ -5,6 +5,7 @@
 !nvim
 
 !tmux/tmux.*
+tmux/plugins/*
 !tmux/plugins/tpm
 
 !yazi
