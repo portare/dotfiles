@@ -1,6 +1,10 @@
 *
 
 !lazygit
+
 !nvim
+
 !tmux
+tmux/plugins
+
 !yazi
